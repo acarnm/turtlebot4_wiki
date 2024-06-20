@@ -38,4 +38,4 @@ Washers:
 Nuts:
 
 - DIN985 M4 x2
-- DIN125 M3 x16
+- DIN934 M3 x16
